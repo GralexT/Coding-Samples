@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AddressBook
+comment0.text=\r\n\ Manage\ an\ AddressBook\ of\ Person\ contacts\r\n\ \r\n\ @author\ Name\:\ Grant\ Alexander\ Taylor.\ \ \ \ Student\ Number\:\ 21947126.\r\n\ \r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=AddressBook()
+comment2.params=p
+comment2.target=void\ addPerson(Person)
+comment2.text=\ Add\ the\ person\ p\ to\ the\ "contacts"\ list,\ unless\ they\ have\ the\ same\ \r\n\ surname\ and\ first\ name\ as\ a\ person\ already\ in\ the\ list,\ in\ which\ case\r\n\ do\ not\ add\ them,\ but\ instead\ print\ the\ error\ message\ "could\ not\ add\ person".\r\n\ \ \r\n
+comment3.params=firstName\ surname
+comment3.target=Person\ findPerson(java.lang.String,\ java.lang.String)
+comment3.text=\ Search\ for\ a\ person\ in\ the\ "contacts"\ list\ by\ first\ name\ and\ surname,\r\n\ and\ return\ the\ relevant\ Person\ object\ if\ one\ matches,\ or\ otherwise\ return\ null.\r\n
+comment4.params=
+comment4.target=Person\ findMostSocial()
+comment4.text=\r\n\ Find\ the\ most\ social\ person\ in\ the\ address\ book.\r\n
+numComments=5

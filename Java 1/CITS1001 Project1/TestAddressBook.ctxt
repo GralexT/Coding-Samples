@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TestAddressBook
+comment0.text=\r\n\ Test\ cases\ for\ the\ project\ AddressBook\ class\r\n\ \r\n\ @author\ Arran\ Stewart\r\n\ @version\ March\ 2017\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ @throws\ java.lang.Exception\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ @throws\ java.lang.Exception\r\n
+comment3.params=addr
+comment3.target=java.util.ArrayList\ extractContacts(AddressBook)
+comment3.text=\ Use\ reflection\ to\ extract\ the\ contacts\ list,\ even\ though\ it's\ private.\r\n
+comment4.params=
+comment4.target=void\ testConstructor()
+comment4.text=\r\n\ Test\ method\ for\ {@link\ AddressBook\#AddressBook()}.\r\n
+comment5.params=
+comment5.target=void\ testAddPerson()
+comment5.text=\r\n\ Test\ method\ for\ {@link\ AddressBook\#addPerson(Person)}.\r\n
+comment6.params=
+comment6.target=void\ testFindAddedPerson()
+comment6.text=\r\n\ Test\ method\ for\ {@link\ AddressBook\#findPerson(java.lang.String,\ java.lang.String)}.\r\n
+numComments=7

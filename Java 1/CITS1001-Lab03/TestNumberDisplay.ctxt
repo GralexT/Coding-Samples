@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestNumberDisplay
+comment0.text=\ Test\ a\ NumberDisplay\ object\r\n\ \r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment2.params=
+comment2.target=void\ testSetValue()
+comment3.params=
+comment3.target=void\ testRollover()
+numComments=4
