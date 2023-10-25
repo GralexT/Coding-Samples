@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Term
+comment0.text=\r\n\ Term\ models\ terms\ in\ a\ polynomial.\ \r\n\ \r\n\ @author\ Lyndon\ While\r\n\ @version\ 1.0\r\n
+comment1.params=c\ e
+comment1.target=Term(double,\ int)
+comment2.params=
+comment2.target=double\ getCoefficient()
+comment3.params=
+comment3.target=int\ getExponent()
+comment4.params=
+comment4.target=java.lang.String\ displaySimple()
+comment5.params=
+comment5.target=java.lang.String\ displayImproved()
+numComments=6

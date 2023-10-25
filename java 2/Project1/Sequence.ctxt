@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Sequence
+comment1.params=s
+comment1.target=Sequence(java.lang.String)
+comment10.params=filename
+comment10.target=void\ solveFileSequences(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getSequence()
+comment3.params=x
+comment3.target=int\ factorial(int)
+comment4.params=seq
+comment4.target=boolean\ allEqual(java.util.ArrayList)
+comment5.params=seq
+comment5.target=java.util.ArrayList\ differences(java.util.ArrayList)
+comment6.params=
+comment6.target=Term\ nextTerm()
+comment7.params=t\ k
+comment7.target=double\ termUpdate(Term,\ int)
+comment8.params=t
+comment8.target=void\ updateSequence(Term)
+comment9.params=
+comment9.target=Polynomial\ solveSequence()
+numComments=11
