@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SocialMediaAccount
+comment0.text=\r\n\ A\ user\ ID\ on\ a\ social\ media\ site\ (like\ Twitter\ or\ Facebook)\r\n\ \r\n\ @author\ Arran\ Stewart\r\n\ @version\ March\ 2017\r\n
+comment1.params=userID\ websiteName\ websiteURL\ activityLevel
+comment1.target=SocialMediaAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\ \r\n\ Construct\ a\ SocialMediaAccount\ object,\ with\ the\ specified\ userID,\r\n\ website\ name,\ and\ website\ URL\ and\ activity\ Level\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUserID()
+comment2.text=\r\n\ Return\ the\ userID\r\n
+comment3.params=userID
+comment3.target=void\ setUserID(java.lang.String)
+comment3.text=\r\n\ Set\ the\ userID\r\n
+comment4.params=
+comment4.target=java.lang.String\ getWebsiteName()
+comment4.text=\r\n\ @return\ the\ websiteName\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWebsiteURL()
+comment5.text=\r\n\ @return\ the\ websiteURL\r\n
+comment6.params=
+comment6.target=int\ getActivityLevel()
+comment6.text=\r\n\ @return\ the\ activityLevel\r\n
+comment7.params=newActivityLevel
+comment7.target=void\ setActivityLevel(int)
+comment7.text=\r\n\ Set\ or\ reset\ the\ activityLevel\r\n\ which\ must\ be\ 0\ or\ greater.\r\n
+numComments=8

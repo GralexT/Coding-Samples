@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PolynomialTest
+comment0.text=\r\n\ The\ test\ class\ PolynomialTest\ provides\ \r\n\ unit\ test\ cases\ for\ the\ Polynomial\ class.\r\n\ @author\ Lyndon\ While\r\n\ @version\ 1.20\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testPolynomial()
+comment3.params=
+comment3.target=void\ testaddTerm()
+comment4.params=
+comment4.target=void\ testdisplay()
+numComments=5
